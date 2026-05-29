@@ -77,3 +77,5 @@ Prettier 설정 ([prettier.config.cjs](prettier.config.cjs)):
 - 세미콜론, 작은따옴표, trailing comma all
 - print width 100, tab width 2
 - import 자동 정렬 순서: `react` → 외부 패키지 → `@/*` → 상대 경로
+
+세부 작성 규칙(네이밍, 폴더 배치, 컴포넌트/상수/타입 패턴)은 [docs/CONVENTIONS.md](docs/CONVENTIONS.md) 참고.
